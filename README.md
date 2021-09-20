@@ -6,7 +6,7 @@ https://forms.gle/cmH4P926XowkseGC7
 __________________________________________________________________________________________________
 # Description
 
-NATASHA is a dataset of vibrations measured by a magneto-elastic beam composed of a clamped beam interacting with two permanent magnets in a bistable configuration. The experimental setup is formed by a cantilever steel beam with dimensions of 150$\times$15$\times$ 0.65 mm. The beam-free end is distant from 5 mm to two magnets placed 65 mm one to the other.
+NATASHA is a dataset of vibrations measured by a magneto-elastic beam composed of a clamped beam interacting with two permanent magnets in a bistable configuration. The experimental setup is formed by a cantilever steel beam with dimensions of 150 x 15 x 0.65 mm. The beam-free end is distant from 5 mm to two magnets placed 65 mm one to the other.
 
 <img src="bancada.jpg " width="80%">
 <img src="esquema.jpg " width="80%">
