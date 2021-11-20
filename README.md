@@ -55,7 +55,7 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
 @phdthesis{Hansen2015,
   title={Caracterização experimental de sistemas mecânicos com comportamento não-linear},
   author={Cristian Hansen},
-  year={2019},
+  year={2015},
     school ={Universidade Estadual Paulista (UNESP)}
       note= {M.Sc. in Mechanical Engineering}
   url = "http://hdl.handle.net/11449/134107",
